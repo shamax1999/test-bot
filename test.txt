@@ -1,1 +1,1 @@
-test of chat bot pr checker 
+test of chat bot open pr checker
